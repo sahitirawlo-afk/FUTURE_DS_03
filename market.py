@@ -156,7 +156,7 @@ axes[1, 0].barh(
 )
 axes[1, 0].set_title('Conversion Rates (%)')
 
-# 4. Drop-off Rates (Line Chart)
+# 4. Drop-off Rates (Line Chart)a
 visitor_dropoff_rate = (
     (total_visitors - total_leads) / total_visitors
 ) * 100
