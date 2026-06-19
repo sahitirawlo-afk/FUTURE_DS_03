@@ -37,19 +37,6 @@ The project was developed using Python for data analysis and Matplotlib for dash
 
 ---
 
-📂 Dataset Information
-
-The dataset contains marketing funnel data with the following fields:
-
-Column| Description
-Date| Campaign date
-Channel| Marketing source/channel
-Visitors| Website visitors
-Leads| Generated leads
-Customers| Converted customers
-
----
-
 📈 Key Metrics
 
 Visitor → Lead Conversion Rate
