@@ -133,20 +133,9 @@ Highlights stages with maximum user loss.
 
 ---
 
-📁 Project Structure
-
-marketing-funnel-analysis-dashboard/
-│
-├── bussines.py
-├── marketing_funnel.xlsx
-├── dashboard_screenshot.png
-├── README.md
-
----
-
 📷 Dashboard Preview
+<img width="1920" height="961" alt="marketing dashboard" src="https://github.com/user-attachments/assets/b9f81f39-a8dd-4c79-93af-22e2d9ea5ae8" />
 
-(Add your dashboard screenshot here)
 
 ---
 
